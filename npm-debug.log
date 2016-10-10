@@ -1,0 +1,109 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'C:\\Program Files\\nodejs\\node.exe',
+1 verbose cli   'C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'publish' ]
+2 info using npm@2.15.9
+3 info using node@v4.5.0
+4 verbose publish [ '.' ]
+5 silly cache add args [ '.', null ]
+6 verbose cache add spec .
+7 silly cache add parsed spec Result {
+7 silly cache add   raw: '.',
+7 silly cache add   scope: null,
+7 silly cache add   name: null,
+7 silly cache add   rawSpec: '.',
+7 silly cache add   spec: 'C:\\web\\truelayer\\hackernews',
+7 silly cache add   type: 'directory' }
+8 verbose addLocalDirectory C:\Users\web\AppData\Roaming\npm-cache\yphackernews\1.0.0\package.tgz not in flight; packing
+9 verbose correctMkdir C:\Users\web\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+10 verbose tar pack [ 'C:\\Users\\web\\AppData\\Roaming\\npm-cache\\yphackernews\\1.0.0\\package.tgz',
+10 verbose tar pack   'C:\\web\\truelayer\\hackernews' ]
+11 verbose tarball C:\Users\web\AppData\Roaming\npm-cache\yphackernews\1.0.0\package.tgz
+12 verbose folder C:\web\truelayer\hackernews
+13 info prepublish yphackernews@1.0.0
+14 verbose addLocalTarball adding from inside cache C:\Users\web\AppData\Roaming\npm-cache\yphackernews\1.0.0\package.tgz
+15 verbose correctMkdir C:\Users\web\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+16 silly cache afterAdd yphackernews@1.0.0
+17 verbose afterAdd C:\Users\web\AppData\Roaming\npm-cache\yphackernews\1.0.0\package\package.json not in flight; writing
+18 verbose correctMkdir C:\Users\web\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+19 verbose afterAdd C:\Users\web\AppData\Roaming\npm-cache\yphackernews\1.0.0\package\package.json written
+20 silly publish { name: 'yphackernews',
+20 silly publish   version: '1.0.0',
+20 silly publish   description: 'news.ycombinator.com parser',
+20 silly publish   main: 'app.js',
+20 silly publish   directories: { test: 'test' },
+20 silly publish   dependencies: { cheerio: '^0.22.0' },
+20 silly publish   devDependencies: { chai: '^3.5.0', mocha: '^3.1.0' },
+20 silly publish   scripts: { test: 'mocha' },
+20 silly publish   bin: { hackernews: './app.js' },
+20 silly publish   repository:
+20 silly publish    { type: 'git',
+20 silly publish      url: 'git+https://github.com/aaalll/hackernews.git' },
+20 silly publish   keywords: [ 'node.js', 'simply', 'parrser' ],
+20 silly publish   author: { name: 'YP' },
+20 silly publish   license: 'ISC',
+20 silly publish   bugs: { url: 'https://github.com/aaalll/hackernews/issues' },
+20 silly publish   homepage: 'https://github.com/aaalll/hackernews#readme',
+20 silly publish   readme: '# Node.js scraper for HackerNews\r\ncommand line application that output news to STDOUT \r\n\r\n## Dependencies\r\n- [cheerio](https://github.com/cheeriojs/cheerio) - Implementation of core jQuery used for HTML parsing.\r\n- [mocha](https://github.com/mochajs/mocha) - Test framework for node.js.\r\n- [chai](https://github.com/mochajs/chai) - BDD / TDD assertion library.\r\n\r\n## Installation\r\n`npm install yphackernews`\r\n\r\n## How to use\r\n```\r\nhackernews --posts n\r\n```\r\n`---posts n` - required parametes where n number 0..100\r\n\r\n## At the moment scraper parse:\r\n- Title\r\n- Link URL\r\n- User\r\n- Points\r\n- Number of comments\r\n- Rank\r\n\r\n## Used output format\r\n```json\r\n[\r\n    {\r\n        "title": "Web Scraping in 2016",\r\n        "uri": "https://franciskim.co/2016/08/24/dont-need-no-stinking-api-web-scraping-2016-beyond/",\r\n        "author": "franciskim",\r\n        "points": 133,\r\n        "comments": 80,\r\n        "rank": 1\r\n    },\r\n    ...\r\n]\r\n\r\n## About me\r\nEmail me: [lyst@ukr.net](mailto:lyst@ukr.net)',
+20 silly publish   readmeFilename: 'README.md',
+20 silly publish   _id: 'yphackernews@1.0.0',
+20 silly publish   _shasum: '2dbbf8048f8a6a8056b81c242c672196c61e2a16',
+20 silly publish   _from: '.' }
+21 verbose getPublishConfig undefined
+22 silly mapToRegistry name yphackernews
+23 silly mapToRegistry using default registry
+24 silly mapToRegistry registry https://registry.npmjs.org/
+25 silly mapToRegistry data Result {
+25 silly mapToRegistry   raw: 'yphackernews',
+25 silly mapToRegistry   scope: null,
+25 silly mapToRegistry   name: 'yphackernews',
+25 silly mapToRegistry   rawSpec: '',
+25 silly mapToRegistry   spec: 'latest',
+25 silly mapToRegistry   type: 'tag' }
+26 silly mapToRegistry uri https://registry.npmjs.org/yphackernews
+27 verbose publish registryBase https://registry.npmjs.org/
+28 silly publish uploading C:\Users\web\AppData\Roaming\npm-cache\yphackernews\1.0.0\package.tgz
+29 verbose request uri https://registry.npmjs.org/yphackernews
+30 verbose request sending authorization for write operation
+31 info attempt registry request try #1 at 4:43:23 PM
+32 verbose request using bearer token for auth
+33 verbose request id 85c8357fba7493f0
+34 http request PUT https://registry.npmjs.org/yphackernews
+35 http 403 https://registry.npmjs.org/yphackernews
+36 verbose headers { 'content-type': 'application/json',
+36 verbose headers   'cache-control': 'max-age=300',
+36 verbose headers   'content-length': '95',
+36 verbose headers   'accept-ranges': 'bytes',
+36 verbose headers   date: 'Sun, 09 Oct 2016 13:44:32 GMT',
+36 verbose headers   via: '1.1 varnish',
+36 verbose headers   connection: 'keep-alive',
+36 verbose headers   'x-served-by': 'cache-lcy1135-LCY',
+36 verbose headers   'x-cache': 'MISS',
+36 verbose headers   'x-cache-hits': '0',
+36 verbose headers   'x-timer': 'S1476020671.216588,VS0,VE884',
+36 verbose headers   vary: 'Accept-Encoding' }
+37 verbose request invalidating C:\Users\web\AppData\Roaming\npm-cache\registry.npmjs.org\yphackernews on PUT
+38 error publish Failed PUT 403
+39 verbose stack Error: "You cannot publish over the previously published version 1.0.0." : yphackernews
+39 verbose stack     at makeError (C:\Program Files\nodejs\node_modules\npm\node_modules\npm-registry-client\lib\request.js:264:12)
+39 verbose stack     at CachingRegistryClient.<anonymous> (C:\Program Files\nodejs\node_modules\npm\node_modules\npm-registry-client\lib\request.js:252:14)
+39 verbose stack     at Request._callback (C:\Program Files\nodejs\node_modules\npm\node_modules\npm-registry-client\lib\request.js:172:14)
+39 verbose stack     at Request.self.callback (C:\Program Files\nodejs\node_modules\npm\node_modules\request\request.js:200:22)
+39 verbose stack     at emitTwo (events.js:87:13)
+39 verbose stack     at Request.emit (events.js:172:7)
+39 verbose stack     at Request.<anonymous> (C:\Program Files\nodejs\node_modules\npm\node_modules\request\request.js:1067:10)
+39 verbose stack     at emitOne (events.js:82:20)
+39 verbose stack     at Request.emit (events.js:169:7)
+39 verbose stack     at IncomingMessage.<anonymous> (C:\Program Files\nodejs\node_modules\npm\node_modules\request\request.js:988:12)
+40 verbose statusCode 403
+41 verbose pkgid yphackernews
+42 verbose cwd C:\web\truelayer\hackernews
+43 error Windows_NT 6.1.7601
+44 error argv "C:\\Program Files\\nodejs\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "publish"
+45 error node v4.5.0
+46 error npm  v2.15.9
+47 error code E403
+48 error "You cannot publish over the previously published version 1.0.0." : yphackernews
+49 error If you need help, you may report this error at:
+49 error     <https://github.com/npm/npm/issues>
+50 verbose exit [ 1, true ]

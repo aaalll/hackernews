@@ -1,0 +1,866 @@
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"RethinkDB is shutting down","uri":"https://rethinkdb.com/blog/rethinkdb-shutdown/","author":"neumino","points":null,"comments":1553,"rank":28}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"RethinkDB is shutting down","uri":"https://rethinkdb.com/blog/rethinkdb-shutdown/","author":"neumino","points":null,"comments":1553,"rank":28}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"RethinkDB is shutting down","uri":"https://rethinkdb.com/blog/rethinkdb-shutdown/","author":"neumino","points":null,"comments":1553,"rank":28}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":null,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":null,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"RethinkDB is shutting down","uri":"https://rethinkdb.com/blog/rethinkdb-shutdown/","author":"neumino","points":null,"comments":1553,"rank":28}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":null,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":null,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"RethinkDB is shutting down","uri":"https://rethinkdb.com/blog/rethinkdb-shutdown/","author":"neumino","points":null,"comments":1553,"rank":28}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":null,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":null,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"RethinkDB is shutting down","uri":"https://rethinkdb.com/blog/rethinkdb-shutdown/","author":"neumino","points":null,"comments":1553,"rank":28}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":null,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":null,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":null,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"RethinkDB is shutting down","uri":"https://rethinkdb.com/blog/rethinkdb-shutdown/","author":"neumino","points":null,"comments":1553,"rank":28}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"RethinkDB is shutting down","uri":"https://rethinkdb.com/blog/rethinkdb-shutdown/","author":"neumino","points":null,"comments":1553,"rank":28}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":null,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":null,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":null,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":null,"rank":10}
+error element 
+{"title":"RethinkDB is shutting down","uri":"https://rethinkdb.com/blog/rethinkdb-shutdown/","author":"neumino","points":null,"comments":1553,"rank":28}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":null,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":null,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":null,"rank":10}
+error element 
+{"title":"RethinkDB is shutting down","uri":"https://rethinkdb.com/blog/rethinkdb-shutdown/","author":"neumino","points":null,"comments":1553,"rank":28}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":null,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":null,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"RethinkDB is shutting down","uri":"https://rethinkdb.com/blog/rethinkdb-shutdown/","author":"neumino","points":null,"comments":1553,"rank":28}
+error element 
+{"title":"RethinkDB is shutting down","uri":"https://rethinkdb.com/blog/rethinkdb-shutdown/","author":"neumino","points":null,"comments":1553,"rank":28}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":null,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":null,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":null,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":null,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":null,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":null,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":null,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":null,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":null,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":null,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":null,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":null,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":null,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":null,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":null,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":null,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"RethinkDB is shutting down","uri":"https://rethinkdb.com/blog/rethinkdb-shutdown/","author":"neumino","points":null,"comments":1553,"rank":28}
+error element 
+{"title":"RethinkDB is shutting down","uri":"https://rethinkdb.com/blog/rethinkdb-shutdown/","author":"neumino","points":null,"comments":1553,"rank":28}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"RethinkDB is shutting down","uri":"https://rethinkdb.com/blog/rethinkdb-shutdown/","author":"neumino","points":null,"comments":1553,"rank":28}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":null,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":null,"rank":10}
+error element 
+{"title":"RethinkDB is shutting down","uri":"https://rethinkdb.com/blog/rethinkdb-shutdown/","author":"neumino","points":null,"comments":1553,"rank":28}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":null,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"RethinkDB is shutting down","uri":"https://rethinkdb.com/blog/rethinkdb-shutdown/","author":"neumino","points":null,"comments":1553,"rank":28}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"","uri":"","author":"andrewbarba","points":109,"comments":109,"rank":""}
+error element 
+{"title":"RethinkDB is shutting down","uri":"https://rethinkdb.com/blog/rethinkdb-shutdown/","author":"neumino","points":null,"comments":1553,"rank":28}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"RethinkDB is shutting down","uri":"https://rethinkdb.com/blog/rethinkdb-shutdown/","author":"neumino","points":null,"comments":1553,"rank":28}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"RethinkDB is shutting down","uri":"https://rethinkdb.com/blog/rethinkdb-shutdown/","author":"neumino","points":null,"comments":1553,"rank":28}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":null,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":null,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":null,"rank":10}
+error element 
+{"title":"","uri":"","author":"andrewbarba","points":109,"comments":109,"rank":""}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"","uri":"","author":"andrewbarba","points":109,"comments":109,"rank":""}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":null,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"","uri":"","author":"andrewbarba","points":109,"comments":109,"rank":""}
+error element 
+{"title":"RethinkDB is shutting down","uri":"https://rethinkdb.com/blog/rethinkdb-shutdown/","author":"neumino","points":null,"comments":1553,"rank":28}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":null,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"","uri":"","author":"andrewbarba","points":109,"comments":109,"rank":""}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":null,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"","uri":"","author":"andrewbarba","points":109,"comments":109,"rank":""}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":null,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"","uri":"","author":"andrewbarba","points":109,"comments":109,"rank":""}
+error element 
+{"title":"RethinkDB is shutting down","uri":"https://rethinkdb.com/blog/rethinkdb-shutdown/","author":"neumino","points":null,"comments":1553,"rank":28}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":null,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":null,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"RethinkDB is shutting down","uri":"https://rethinkdb.com/blog/rethinkdb-shutdown/","author":"neumino","points":null,"comments":1553,"rank":28}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":null,"rank":10}
+error element 
+{"title":"","uri":"","author":"andrewbarba","points":109,"comments":109,"rank":""}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":null,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"","uri":"","author":"andrewbarba","points":109,"comments":109,"rank":""}
+error element 
+{"title":"RethinkDB is shutting down","uri":"https://rethinkdb.com/blog/rethinkdb-shutdown/","author":"neumino","points":null,"comments":1553,"rank":28}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"","uri":"","author":"andrewbarba","points":109,"comments":109,"rank":""}
+error element 
+{"title":"RethinkDB is shutting down","uri":"https://rethinkdb.com/blog/rethinkdb-shutdown/","author":"neumino","points":null,"comments":1553,"rank":28}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"","uri":"","author":"andrewbarba","points":109,"comments":109,"rank":""}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"RethinkDB is shutting down","uri":"https://rethinkdb.com/blog/rethinkdb-shutdown/","author":"neumino","points":null,"comments":1553,"rank":28}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"","uri":"","author":"andrewbarba","points":109,"comments":109,"rank":""}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":null,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":null,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"","uri":"","author":"andrewbarba","points":109,"comments":109,"rank":""}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":null,"rank":10}
+error element 
+{"title":"RethinkDB is shutting down","uri":"https://rethinkdb.com/blog/rethinkdb-shutdown/","author":"neumino","points":null,"comments":1553,"rank":28}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"","uri":"","author":"andrewbarba","points":109,"comments":109,"rank":""}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"RethinkDB is shutting down","uri":"https://rethinkdb.com/blog/rethinkdb-shutdown/","author":"neumino","points":null,"comments":1553,"rank":28}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":null,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"","uri":"","author":"andrewbarba","points":109,"comments":109,"rank":""}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"RethinkDB is shutting down","uri":"https://rethinkdb.com/blog/rethinkdb-shutdown/","author":"neumino","points":null,"comments":1553,"rank":28}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"","uri":"","author":"andrewbarba","points":109,"comments":109,"rank":""}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"RethinkDB is shutting down","uri":"https://rethinkdb.com/blog/rethinkdb-shutdown/","author":"neumino","points":null,"comments":1553,"rank":28}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"","uri":"","author":"andrewbarba","points":109,"comments":109,"rank":""}
+error element 
+{"title":"RethinkDB is shutting down","uri":"https://rethinkdb.com/blog/rethinkdb-shutdown/","author":"neumino","points":null,"comments":1553,"rank":28}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"","uri":"","author":"andrewbarba","points":109,"comments":109,"rank":""}
+error element 
+{"title":"RethinkDB is shutting down","uri":"https://rethinkdb.com/blog/rethinkdb-shutdown/","author":"neumino","points":null,"comments":1553,"rank":28}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":null,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"RethinkDB is shutting down","uri":"https://rethinkdb.com/blog/rethinkdb-shutdown/","author":"neumino","points":null,"comments":1553,"rank":28}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":null,"rank":10}
+error element 
+{"title":"","uri":"","author":"andrewbarba","points":109,"comments":109,"rank":""}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":null,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"","uri":"","author":"andrewbarba","points":109,"comments":109,"rank":""}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"","uri":"","author":"andrewbarba","points":109,"comments":109,"rank":""}
+error element 
+{"title":"RethinkDB is shutting down","uri":"https://rethinkdb.com/blog/rethinkdb-shutdown/","author":"neumino","points":null,"comments":1553,"rank":28}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"","uri":"","author":"andrewbarba","points":109,"comments":109,"rank":""}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":null,"rank":10}
+error element 
+{"title":"RethinkDB is shutting down","uri":"https://rethinkdb.com/blog/rethinkdb-shutdown/","author":"neumino","points":null,"comments":1553,"rank":28}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":null,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"RethinkDB is shutting down","uri":"https://rethinkdb.com/blog/rethinkdb-shutdown/","author":"neumino","points":null,"comments":1553,"rank":28}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"RethinkDB is shutting down","uri":"https://rethinkdb.com/blog/rethinkdb-shutdown/","author":"neumino","points":null,"comments":1553,"rank":28}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}
+error element 
+{"title":"RethinkDB is shutting down","uri":"https://rethinkdb.com/blog/rethinkdb-shutdown/","author":"neumino","points":null,"comments":1553,"rank":28}
+error element 
+{"title":"Theorem LP (YC W14) is hiring researchers and engineers","uri":"item?id=12658505","author":"","points":null,"comments":31,"rank":10}

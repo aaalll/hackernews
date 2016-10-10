@@ -1,0 +1,37 @@
+{
+  "name": "yphackernews",
+  "version": "1.0.0",
+  "description": "news.ycombinator.com parser",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "cheerio": "^0.22.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "bin": {
+    "hackernews": "./app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaalll/hackernews.git"
+  },
+  "keywords": [
+    "node.js",
+    "simply",
+    "parrser"
+  ],
+  "author": "YP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaalll/hackernews/issues"
+  },
+  "homepage": "https://github.com/aaalll/hackernews#readme"
+}
